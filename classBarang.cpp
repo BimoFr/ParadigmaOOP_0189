@@ -36,5 +36,9 @@ int main()
     nonElektronik.kategori = "Furniture / Non-Elektronik";
     nonElektronik.tanggalProduksi = "01 Januari 2026";
 
+    // Memanggil method untuk menampilkan data
+    elektronik.tampilkanData();
+    nonElektronik.tampilkanData();
 
+    return 0;
 }
