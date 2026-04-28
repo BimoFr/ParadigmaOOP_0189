@@ -9,4 +9,9 @@ class Barang
     int jumlah;
     string kategori;
     string tanggalProduksi;
+
+    void tampilkanData()
+    {
+
+    }
 };
