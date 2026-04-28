@@ -30,5 +30,11 @@ int main()
     elektronik.kategori = "Elektronik";
     elektronik.tanggalProduksi = "12 April 2026";
 
+    Barang nonElektronik;
+    nonElektronik.nama = "Meja Kayu Jati";
+    nonElektronik.jumlah = 5;
+    nonElektronik.kategori = "Furniture / Non-Elektronik";
+    nonElektronik.tanggalProduksi = "01 Januari 2026";
+
 
 }
